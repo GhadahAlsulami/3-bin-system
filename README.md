@@ -1,4 +1,4 @@
-# ZIMA - Garbage Classification App
+# ZIMA - Waste Classification App
 ZIMA is an AI-powered garbage classification model designed to help users identify the appropriate bin (Blue, Green, or Black) for waste disposal. Leveraging a YOLO model, the app classifies garbage with high accuracy by analyzing photos captured via webcam.
 # Features
 Real-time Image Capture: Uses a webcam to capture garbage images.
